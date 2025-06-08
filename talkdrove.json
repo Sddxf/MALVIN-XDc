@@ -10,7 +10,7 @@
     "SESSION_ID": {
       "description": "Must Start with 'malvin~'",
       "required": true,
-      "value": ""
+      "value": "malvin~wv8hXCCL#LtvW-ukU1hnaWY2ZOPXjM8hgr8l-lfQASYbbAqKhzqQ"
     },
       "BOT_NAME": {
         "description": "write here your bot name.",
@@ -32,12 +32,12 @@
     "OWNER_NAME": {
       "description": "Put Owner Name Here",
       "required": true,
-      "value": "ᴍᴀʟᴠɪɴ ᴋɪɴɢ"
+      "value": "Nicolaus Daniel 2 😈😈"
     },
     "OWNER_NUMBER": {
       "description": "Put only one Owner Number Here",
       "required": true,
-      "value": "263780166288"
+      "value": "255652398614"
     },
     
     "PRESENCE": {
